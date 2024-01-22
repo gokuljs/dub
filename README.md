@@ -75,3 +75,4 @@ We love our contributors! Here's how you can contribute:
 ## License
 
 Inspired by [Plausible](https://plausible.io/), Dub is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. You can [find it here](https://github.com/dubinc/dub/blob/main/LICENSE.md).
+# ds-algo-js
